@@ -12,7 +12,7 @@ curl https://raw.githubusercontent.com/radoslawwalat/api-scripts-ovh/main/upgrad
 Get API keys to allow the script make changes on your account. 
 
 Use this link to generate required permissions:
-https://api.ovh.com/createToken/index.cgi?GET=/vps*&GET=/order*&POST=/order/upgrade/vps*
+<https://api.ovh.com/createToken/index.cgi?GET=/vps*&GET=/order*&POST=/order/upgrade/vps*>
 
 ## Step three
 Edit 'xxx' at the begining of the script with your credentials:
